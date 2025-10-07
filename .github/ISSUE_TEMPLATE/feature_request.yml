@@ -14,3 +14,9 @@ body:
         Please describe the feature you have in mind.
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Voting Instructions
+        React with 👍 or 👎 to vote on this request.
